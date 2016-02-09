@@ -1,0 +1,34 @@
+ABBREVIATIONS.
+
+active.
+
+ablative.
+acc ........ accusative.
+adj ........ adjective.
+adv. ...... adverb.
+comp ....... comparative.
+conj ....... conJ'unction.
+dat ....... dative.
+dep. ...... deponent.
+f. ....... feminine.
+indecl. ..... indeclinable.
+indes ....... indefinite.
+interj . ..... interjection.
+
+98
+
+m ........ masculine.
+n. ....... neuter.
+nom ....... nominative.
+num. . > ..... numeral.
+part ....... participle.
+perf. ...... perfect.
+plur ....... plural.
+
+prep ....... preposition.
+pron ....... pronoun.
+sing ....... singular.
+sup. ...... supine.
+superl. ..... superlative.
+v. ....... verb.
+

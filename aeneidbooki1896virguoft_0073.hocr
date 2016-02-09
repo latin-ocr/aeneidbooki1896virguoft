@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "aeneidbooki1896virguoft_0073.png"; bbox 0 0 1731 2573; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 140 360 1546 2218">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 140 360 1546 2218">
+     <span class='ocr_line' id='line_1_1' title="bbox 140 360 1546 2218; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 140 360 1546 2218; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1594 441 1624 1495">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1594 441 1624 1495">
+     <span class='ocr_line' id='line_1_2' title="bbox 1594 441 1624 1495; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 1596 1385 1620 1495; x_wconf 68' lang='lat' dir='ltr'><em>Aeneas</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1596 1333 1619 1365; x_wconf 81' lang='lat' dir='ltr'><strong><em>at</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1595 1266 1619 1315; x_wconf 75' lang='lat' dir='ltr'><strong><em>the</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1594 1160 1619 1247; x_wconf 81' lang='lat' dir='ltr'><strong><em>Court</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1594 1105 1624 1140; x_wconf 89' lang='lat' dir='ltr'><strong><em>of</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1594 1013 1618 1090; x_wconf 24' lang='lat' dir='ltr'><em>Dido*</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1607 552 1622 571; x_wconf 67' lang='grc' dir='ltr'><strong><em>ε·Δ</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1607 441 1622 532; x_wconf 61' lang='lat' dir='ltr'>cutam</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

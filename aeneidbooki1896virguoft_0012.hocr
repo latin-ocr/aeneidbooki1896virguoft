@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "aeneidbooki1896virguoft_0012.png"; bbox 0 0 1690 2542; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 62 348 1460 2074">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 62 348 1460 2074">
+     <span class='ocr_line' id='line_1_1' title="bbox 62 348 1460 2074; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 62 348 1460 2074; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1505 392 1537 1660">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1505 392 1537 1660">
+     <span class='ocr_line' id='line_1_2' title="bbox 1505 392 1537 1660; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 1505 1562 1535 1660; x_wconf 76' lang='lat' dir='ltr'><em>Verqil.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1506 1433 1532 1540; x_wconf 77' lang='lat' dir='ltr'><em>Horace</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1508 1357 1532 1415; x_wconf 76' lang='lat' dir='ltr'><em>ami</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1508 1236 1532 1334; x_wconf 69' lang='lat' dir='ltr'><em>Varius</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1509 1185 1531 1217; x_wconf 78' lang='lat' dir='ltr'><em>at</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1508 1119 1531 1167; x_wconf 75' lang='lat' dir='ltr'><em>the</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1507 1007 1532 1099; x_wconf 74' lang='lat' dir='ltr'><em>House</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1507 953 1537 988; x_wconf 90' lang='lat' dir='ltr'><em>of</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1508 780 1531 937; x_wconf 75' lang='lat' dir='ltr'><em>Maecenas,</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1521 537 1536 574; x_wconf 59' lang='grc' dir='ltr'><em>ΟΜ,</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1521 392 1537 516; x_wconf 49' lang='lat' dir='ltr'><em>„amatur</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
